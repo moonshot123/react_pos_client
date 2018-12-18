@@ -6,6 +6,11 @@ export default class ManageMain extends React.Component{
         return(
             <div>
                 관리메인페이지
+                
+
+
+                <button>메뉴등록</button>
+
             </div>
         )
     }
